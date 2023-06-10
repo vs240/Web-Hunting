@@ -1,8 +1,6 @@
 # searchbyHTML
 This is a chrome extension that will seach through your webpage to give you the right results relavent to the context.
 
-## This Project is made during a Hackathon: AngelHack
- We are here doing a project:
  
  Description:
 We are trying to intelligently scan a webpage, this project is basically a chrome extension.
