@@ -10,3 +10,5 @@ It scans the open webpage and gives all the intelligent links of web sites with 
  This is how it searches the content and gives user back more relavent data.
  
  
+![Screenshot (120)](https://github.com/vs240/Web-Hunting/assets/69636561/20c614a6-3fed-41ef-881e-19a25644ec2a)
+![Screenshot (124)](https://github.com/vs240/Web-Hunting/assets/69636561/66c100a5-5b91-4bd0-b0f4-dc7708ae53a2)
